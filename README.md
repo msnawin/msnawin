@@ -57,3 +57,20 @@ A dynamic AI research assistant utilizing low-latency REST APIs for web clients 
 <div align="center">
   <i>"Whether on the chessboard or in the codebase, every move must have a purpose."</i>
 </div>
+
+
+<div align="center">
+  <h2>📈 Analytics & Activity</h2>
+  <a href="https://github.com/msnawin">
+    <img src="https://github-readme-stats.vercel.app/api?username=msnawin&show_icons=true&theme=transparent&hide_border=true&title_color=007EC6&icon_color=007EC6&text_color=ffffff&bg_color=00000000" width="48%">
+  </a>
+  <a href="https://github.com/msnawin">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=msnawin&theme=transparent&hide_border=true&title_color=007EC6&sideNums=ffffff&sideLabels=ffffff&ring=007EC6&fire=007EC6&currStreakLabel=ffffff&currStreakNum=ffffff" width="48%">
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007EC6&height=100&section=footer"/>
+</div>
