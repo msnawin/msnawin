@@ -11,7 +11,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 **Academics:** Pursuing a B.E. in Computer Science & Engineering at Velammal Institute of Technology (Batch of 2027), currently maintaining a **CGPA of 8.72**. 
-- 🎯 **Current Focus:** Actively seeking an **Infosys InStep Internship** to apply my problem-solving, backend development, and system design skills at an enterprise scale.
+- 🎯 **Current Focus:** Actively seeking an **SDE Internship** to apply my problem-solving, backend development, and system design skills at an enterprise scale.
 - 💡 **Philosophy:** I approach backend engineering the same way I approach a chessboard—anticipating edge cases, optimizing for efficiency, and building robust, well-calculated architectures.
 
 ## ♟️ The Chess Journey & Strategy
