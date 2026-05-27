@@ -29,21 +29,26 @@ I am an internationally rated Indian National Chess Player with over **80+ tourn
 - 🥇 **CodeHive 2K26 Champion:** Won **1st Place in the Code Relay** (Team Coding Competition) hosted by Vel Tech Multi Tech, demonstrating high-pressure pair programming and seamless code coordination alongside my sister, Ramela M S.
 - 🏅 Consistently secured podium finishes (1st & 2nd) across 10+ national-level symposium coding challenges.
 
-## 🚀 Featured Projects
+## 🚀 Featured Architectures
 
-### **Smart Inventory Management System (SIMS)** 📦  
-A comprehensive enterprise platform built on a **"Sense-Think-Act" framework** designed to optimize business stock levels in real-time. 
-- **Security:** Multi-role authentication (Google OAuth2, Email/Password) with rigid role-based access control (`ROLE_ADMIN`, `ROLE_MANAGER`, `ROLE_SUPPLIER`).
-- **Intelligence Layer:** Integrated **OpenAI API** for demand forecasting, natural language inventory search, and Auto-PO (Purchase Order) Generation.
-- **Automation:** Built an AI Forecast Scheduler and a Brevo-powered notification engine for automated low stock alerts and supplier dispatch emails. 
-- *Tech: Java, Spring Boot, Spring Security, TiDB Cloud, OpenAI API, Brevo Service*
+### **FitTrack AI** 🏋️  
+A highly-scalable fitness platform architected with fully Dockerized microservices, designed to process and analyze workout data efficiently.
+- **Microservices Architecture:** Services communicate reliably via **RabbitMQ** message brokers, managed by **Eureka** service discovery and routed through a centralized **API Gateway**.
+- **AI Integration:** Incorporates an intelligence layer using the **OpenAI API** for dynamic workout analytics and personalized fitness insights.
+- **Data Layer:** Utilizes **MongoDB** for flexible, schema-less storage of complex workout logs and user metrics.
+- *Tech: Java, Spring Boot, Microservices, RabbitMQ, Eureka, API Gateway, MongoDB, OpenAI API, Docker*
 
 ### **TaskCloud** ☁️  
 A secure, cloud-native task management backend implementing priority-based tracking and scheduled background reminders. Engineered with highly available persistent storage and scalable access controls.  
-- *Tech: Spring Boot, Google OAuth2, BCrypt, TiDB, Hibernate*
+- **Core Framework:** Built on **Spring Boot** and **Hibernate** to ensure rapid data access and robust persistence.
+- **Security & Auth:** Implements secure multi-role access utilizing **Google OAuth2** and **BCrypt** password hashing.
+- **Database:** Engineered using **TiDB** (Distributed SQL) to handle scalable, transactional workloads without bottlenecks.
+- *Tech: Java, Spring Boot, Spring Security, Hibernate, Google OAuth2, TiDB*
 
 ### **NextMove AI** 🧠  
 A dynamic AI research assistant utilizing low-latency REST APIs for web clients and Chrome extensions. It seamlessly integrates LLMs for real-time extraction, contextualization, and summarization of online research data.  
+- **Backend Server:** Built with **Node.js** and **Express.js** to provide low-latency, non-blocking REST APIs.
+- **LLM Engine:** Connects to the **OpenAI API** to contextualize and summarize online research data instantly on the client side.
 - *Tech: Node.js, Express.js, REST APIs, OpenAI API*
 
 ## 🛠️ Tech Stack & Tools
@@ -52,25 +57,25 @@ A dynamic AI research assistant utilizing low-latency REST APIs for web clients 
 - **Core CS:** Data Structures & Algorithms, OOP, OS, DBMS, System Design
 - **Backend Frameworks:** Spring Boot, Spring Security, Hibernate, Microservices, Node.js/Express
 - **Databases & Cloud:** MySQL, MongoDB, TiDB Cloud
-- **Tools:** Git/GitHub, Docker, OAuth2, JWT, Postman, Vercel
+- **Tools:** Git/GitHub, Docker, RabbitMQ, OAuth2, JWT, Postman, Vercel
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/msnawin">
+    <img src="https://github-readme-stats.vercel.app/api?username=msnawin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nawin's GitHub Stats" width="48%">
+  </a>
+  <a href="https://github.com/msnawin">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=msnawin&theme=tokyonight&hide_border=true" alt="Nawin's GitHub Streak" width="48%">
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/msnawin">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msnawin&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%">
+  </a>
+</p>
+
 ---
 <div align="center">
   <i>"Whether on the chessboard or in the codebase, every move must have a purpose."</i>
-</div>
-
-
-<div align="center">
-  <h2>📈 Analytics & Activity</h2>
-  <a href="https://github.com/msnawin">
-    <img src="https://github-readme-stats.vercel.app/api?username=msnawin&show_icons=true&theme=transparent&hide_border=true&title_color=007EC6&icon_color=007EC6&text_color=ffffff&bg_color=00000000" width="48%">
-  </a>
-  <a href="https://github.com/msnawin">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=msnawin&theme=transparent&hide_border=true&title_color=007EC6&sideNums=ffffff&sideLabels=ffffff&ring=007EC6&fire=007EC6&currStreakLabel=ffffff&currStreakNum=ffffff" width="48%">
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007EC6&height=100&section=footer"/>
 </div>
