@@ -53,7 +53,7 @@ A dynamic AI research assistant utilizing low-latency REST APIs for web clients 
 
 ## 🛠️ Tech Stack & Tools
 
-- **Languages:** Java, C, SQL, JavaScript
+- **Languages:** Java, C, SQL.
 - **Core CS:** Data Structures & Algorithms, OOP, OS, DBMS, System Design
 - **Backend Frameworks:** Spring Boot, Spring Security, Hibernate, Microservices, Node.js/Express
 - **Databases & Cloud:** MySQL, MongoDB, TiDB Cloud
