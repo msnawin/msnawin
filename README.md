@@ -16,7 +16,7 @@
 
 ## ♟️ The Chess Journey & Strategy
 
-I am an internationally rated Indian National Chess Player with over **80+ tournament victories**. The deep calculation, pattern recognition, and strategic foresight required on the board directly translate to how I architect scalable databases and write optimized algorithms.
+I am an internationally rated Indian National Chess Player with over **100+ tournament victories**. The deep calculation, pattern recognition, and strategic foresight required on the board directly translate to how I architect scalable databases and write optimized algorithms.
 
 - **FIDE Ratings:** Standard: 1831 (Peak: 1885) | Rapid: 1874 | Blitz: 1893
 - **National Stage:** Represented Tamil Nadu and competed against top grandmasters in the **MPL 59th Senior National Chess Championship (2022)** in New Delhi.
