@@ -57,7 +57,7 @@ A dynamic AI research assistant utilizing low-latency REST APIs for web clients 
 - **Core CS:** Data Structures & Algorithms, OOP, OS, DBMS, System Design
 - **Backend Frameworks:** Spring Boot, Spring Security, Hibernate, Microservices, Node.js/Express
 - **Databases & Cloud:** MySQL, MongoDB, TiDB Cloud
-- **Tools:** Git/GitHub, Docker, RabbitMQ, OAuth2, JWT, Postman, Vercel
+- **Tools:** Git/GitHub, Docker, RabbitMQ, OAuth2, JWT, Postman, Vercel.
 
 ## 📊 GitHub Analytics
 
