@@ -132,7 +132,7 @@ Click on any card to view its corresponding repository:
   </tr>
 </table>
 
----
+----
 
 ## 📊 GitHub Analytics
 
